@@ -11,7 +11,8 @@ La web está diseñada para reflejar la elegancia y exclusividad de la marca, of
 - **JavaScript** para la interactividad  
 
 ## 📷 Vista previa  
-*(Puedes agregar aquí una imagen o enlace a la demo de tu proyecto)*  
+ ![Captura de pantalla 2025-02-03 225736](https://github.com/user-attachments/assets/b7368645-f7ae-4d5d-bb37-35d499ce008f)
+
 
 ## 📂 Estructura del proyecto  
 - `index.html` - Página principal  
